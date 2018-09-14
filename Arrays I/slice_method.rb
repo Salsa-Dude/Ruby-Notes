@@ -6,4 +6,4 @@ p numbers.slice(2, 4) # [3, 94, 75, 2]
 
 # Slice includes the first number but doesn't inlcude the last number
 
- #TESTINGsß
+ # TESTING!!!s
